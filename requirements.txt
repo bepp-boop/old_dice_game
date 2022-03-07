@@ -1,0 +1,16 @@
+# Unnitest 
+coverage
+
+#Code analysis
+bandit
+
+#Syntax check
+flake8
+flake8-docstrings
+flake8-polyfill
+pylint
+radon
+
+#Documentation
+pdoc
+
